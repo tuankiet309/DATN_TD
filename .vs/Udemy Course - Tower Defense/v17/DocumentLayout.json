@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\assets\\scripts\\tilesystem\\tileslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilesystem\\tileslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|e:\\unity projects\\projects - courses\\udemy course - tower defense\\assets\\scripts\\enemyportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|e:\\unity projects\\projects - courses\\udemy course - tower defense\\assets\\scripts\\enemy_visuals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy_visuals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\assets\\scripts\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\assets\\scripts\\tilesystem\\gridbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilesystem\\gridbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\assets\\scripts\\tilesystem\\tilesloteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilesystem\\tilesloteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|e:\\unity projects\\projects - courses\\udemy course - tower defense\\assets\\scripts\\tilesystem\\tilesetholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6C8702-884C-5A64-EB47-B86CA6D67BD5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilesystem\\tilesetholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +26,57 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GridBuilder.cs",
-              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\TileSystem\\GridBuilder.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TileSystem\\GridBuilder.cs",
-              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\TileSystem\\GridBuilder.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TileSystem\\GridBuilder.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAgwBYAAAANAAAA",
+              "DocumentIndex": 0,
+              "Title": "EnemyPortal.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\EnemyPortal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyPortal.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\EnemyPortal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyPortal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T09:18:05.228Z",
+              "WhenOpened": "2024-08-16T13:27:52.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy_Visuals.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\Enemy_Visuals.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy_Visuals.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\Enemy_Visuals.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy_Visuals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:42:29.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TileSetHolder.cs",
-              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\TileSystem\\TileSetHolder.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TileSystem\\TileSetHolder.cs",
-              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\TileSystem\\TileSetHolder.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TileSystem\\TileSetHolder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Title": "GridBuilder.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\TileSystem\\GridBuilder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TileSystem\\GridBuilder.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\TileSystem\\GridBuilder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TileSystem\\GridBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T06:45:30.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T10:04:33.807Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TileSlotEditor.cs",
-              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\TileSystem\\TileSlotEditor.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TileSystem\\TileSlotEditor.cs",
-              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\TileSystem\\TileSlotEditor.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TileSystem\\TileSlotEditor.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAAAIgAAAAAAAAA",
+              "Title": "WaveManager.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\WaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveManager.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\WaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveManager.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAIBZwLcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T05:59:49.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TileSlot.cs",
-              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\TileSystem\\TileSlot.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TileSystem\\TileSlot.cs",
-              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - Tower Defense\\Assets\\Scripts\\TileSystem\\TileSlot.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TileSystem\\TileSlot.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T05:57:33.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-13T06:35:13.657Z"
             }
           ]
         }
